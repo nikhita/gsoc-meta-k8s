@@ -1,4 +1,4 @@
-# GSoC Project Meta Tracker
+# GSoC Improve TPRs Project Meta Tracker
 
 ## Student Info
 

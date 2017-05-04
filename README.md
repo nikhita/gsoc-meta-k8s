@@ -14,6 +14,7 @@
 + [Project on GSoC website](https://summerofcode.withgoogle.com/projects/#5982049109278720)
 + [Waffle board](https://waffle.io/nikhita/gsoc-meta-k8s)
 + [Daily update log](https://docs.google.com/document/d/1iCH03_jdyUsBfXKwgZtut7tXVbsl6lgusDt_lXLNNGo/edit?usp=sharing)
++ [cncf-soc github repo](https://github.com/cncf/soc)
 
 ## Weekly Summary
 

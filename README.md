@@ -26,14 +26,19 @@
 
 ## Open Issues
 
++ [#44587](https://github.com/kubernetes/kubernetes/issues/44587) - kube-apiserver crashes when trying to patch TPR data
 <br>
 
 ## Pending PRs
 
++ [#44612](https://github.com/kubernetes/kubernetes/pull/44612) - Fix kube-apiserver crash when patching TPR data
 <br>
 
 ## Closed Issues
 
++ [#30213](https://github.com/kubernetes/kubernetes/issues/30213) - large number in ThirdPartyResource encoded as float
 <br>
 
 ## Closed PRs
+
++ [#44026](https://github.com/kubernetes/kubernetes/pull/44026) - Preserve int data when unmarshalling for TPR

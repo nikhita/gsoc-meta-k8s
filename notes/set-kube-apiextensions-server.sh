@@ -18,7 +18,7 @@ kubectl create -f vendor/k8s.io/kube-apiextensions-server/artifacts/example/
 kubectl create -f vendor/k8s.io/kube-apiextensions-server/artifacts/customresource-01/noxu-apiservice.yaml
 
 # create a CustomResourceDefinition
-sudo kubectl create -f vendor/k8s.io/kube-apiextensions-server/artifacts/customresource-01/noxu-resource-definition.yaml
+kubectl create -f vendor/k8s.io/kube-apiextensions-server/artifacts/customresource-01/noxu-resource-definition.yaml
 
 # create an instance.
-sudo kubectl create -f vendor/k8s.io/kube-apiextensions-server/artifacts/customresource-01/noxu.yaml
+kubectl create -f vendor/k8s.io/kube-apiextensions-server/artifacts/customresource-01/noxu.yaml

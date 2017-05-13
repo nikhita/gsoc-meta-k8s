@@ -1,11 +1,18 @@
 # GSoC Improve TPRs Project Meta Tracker
 
+
+[![In Progress](https://badge.waffle.io/nikhita/gsoc-meta-k8s.svg?label=In%20Progress&title=In%20Progress)](http://waffle.io/nikhita/gsoc-meta-k8s)
+
+
+Issues created in this repository correspond to the tasks I'm working on. Please see the waffle board linked below for a better perspective of how the project is progressing.
+
 ## Student Info
 
 + Name: Nikhita Raghunath
 + Github: [nikhita](https://github.com/nikhita)
 + Email: nikitaraghunath@gmail.com
 + Slack nick: nikhita
++ Blog: https://nikhita.github.io/
 
 ## Links
 
@@ -22,23 +29,13 @@
 
 + [Week 1](weekly/week1.md)
 
+
+## Blog posts
+
 <br>
 
-## Open Issues
-
-+ [#44587](https://github.com/kubernetes/kubernetes/issues/44587) - kube-apiserver crashes when trying to patch TPR data
-<br>
-
-## Pending PRs
-
-+ [#44612](https://github.com/kubernetes/kubernetes/pull/44612) - Fix kube-apiserver crash when patching TPR data
-<br>
-
-## Closed Issues
-
-+ [#30213](https://github.com/kubernetes/kubernetes/issues/30213) - large number in ThirdPartyResource encoded as float
-<br>
-
-## Closed PRs
+## Related Pull Requests
 
 + [#44026](https://github.com/kubernetes/kubernetes/pull/44026) - Preserve int data when unmarshalling for TPR
++ [#45721](https://github.com/kubernetes/kubernetes/pull/45721) - Add integration tests for kube-apiextensions-server
+

@@ -10,7 +10,7 @@
 - Chose a library comparing their strength's and weaknesses. Decided to go with `go-openapi`.
 - Came up with a few ideas and discussed general implementation outline for validation. Will submit a draft proposal next week.
 - Went through the new TPR code and got comfortable with the codebase.
-- Setup the new kube-apiextensions-server and wrote it in the form of a [script](https://github.com/nikhita/gsoc-meta-k8s/blob/master/notes/set-kube-apiextensions-server.sh) so that it can be easily installed.
+- Setup the new kube-apiextensions-server and wrote it in the form of a [script](https://github.com/nikhita/gsoc-meta-k8s/blob/master/notes/set-kube-apiextensions-server.sh) so that it can be easily exposed.
 - Add the following integration tests for kube-apiextensions-server in the [PR](https://github.com/kubernetes/kubernetes/pull/45721):
     - [x] test namespace scoped resources
     - [x] test cluster scoped resources

@@ -32,11 +32,13 @@ Issues created in this repository correspond to the tasks I'm working on. Please
 
 ## Blog posts
 
-<br>
++ [GSoC with Kubernetes - Week 1](https://nikhita.github.io/google-summer-of-code-kubernetes-week-1)
+
 
 ## Related Pull Requests
 
 + [#44026](https://github.com/kubernetes/kubernetes/pull/44026) - Preserve int data when unmarshalling for TPR
++ [#44612](https://github.com/kubernetes/kubernetes/pull/44612) - Fix kube-apiserver crash when patching TPR data
 + [#45721](https://github.com/kubernetes/kubernetes/pull/45721) - Add integration tests for kube-apiextensions-server
 + [#45793](https://github.com/kubernetes/kubernetes/pull/45793) - Add plural name for CustomResources example
 

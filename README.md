@@ -43,4 +43,5 @@ A RSS feed for blog posts only related to GSoC is available [here](https://nikhi
 + [#44612](https://github.com/kubernetes/kubernetes/pull/44612) - Fix kube-apiserver crash when patching TPR data
 + [#45721](https://github.com/kubernetes/kubernetes/pull/45721) - Add integration tests for kube-apiextensions-server
 + [#45793](https://github.com/kubernetes/kubernetes/pull/45793) - Add plural name for CustomResources example
++ [#46059](https://github.com/kubernetes/kubernetes/pull/46059) - Integration test for kube-apiextensions-server: integers
 

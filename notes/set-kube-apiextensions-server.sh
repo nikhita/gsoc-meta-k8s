@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Update: This is no longer needed. CRDs work directly on HEAD.
 # Temporary steps to set up kube-apiextensions-server
 
 # Before running these, please run `hack/local-up-cluster.sh`

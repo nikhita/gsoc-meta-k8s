@@ -25,9 +25,13 @@ Issues created in this repository correspond to the tasks I'm working on. Please
 
 ## Weekly Summary
 
-### Community Bonding Period
+### Community Bonding Period - May
 
 + [Week 1](weekly/week1.md)
++ [Week 2](weekly/week2.md)
++ [Week 3](weekly/week3.md)
+
+### Coding Period - June
 
 
 ## Blog posts
@@ -44,4 +48,6 @@ A RSS feed for blog posts only related to GSoC is available [here](https://nikhi
 + [#45721](https://github.com/kubernetes/kubernetes/pull/45721) - Add integration tests for kube-apiextensions-server
 + [#45793](https://github.com/kubernetes/kubernetes/pull/45793) - Add plural name for CustomResources example
 + [#46059](https://github.com/kubernetes/kubernetes/pull/46059) - Integration test for kube-apiextensions-server: integers
++ [#46200](https://github.com/kubernetes/kubernetes/pull/46200) - Add integration test for name conflicts
++ [#46585](https://github.com/kubernetes/kubernetes/pull/46585) - [WIP] Add integration test for GC
 

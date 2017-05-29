@@ -39,6 +39,7 @@ Issues created in this repository correspond to the tasks I'm working on. Please
 A RSS feed for blog posts only related to GSoC is available [here](https://nikhita.github.io/feed-gsoc.xml).
 
 + [GSoC with Kubernetes - Week 1](https://nikhita.github.io/google-summer-of-code-kubernetes-week-1)
++ [GSoC with Kubernetes - Week 2 and 3](https://nikhita.github.io/google-summer-of-code-kubernetes-week2-3-community-bonding)
 
 
 ## Related Pull Requests

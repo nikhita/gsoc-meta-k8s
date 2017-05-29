@@ -7,6 +7,7 @@
     - Did a rebase again but still did not work. Now I got:  `"reason": "InstanceDeletionFailed"` and `"message": "could not list instances: unable to find a custom resource client for noxus.mygroup.example.com"`. The problem turned out to be that the storage map was only filled if a CR (not the CRD!) was accessed via some CRUD request. So this worked only if you created CRs before the CRD deletion. PR with fix: [#46501](https://github.com/kubernetes/kubernetes/pull/46501). 
     - Fix naming controller so that when a resource is deleted, other resources in the same group are added to the queue. This is necessary since the deleted CRD can free names.
     - Added a `requeueAllOtherGroupCRDs` for the above. Had a little trouble making the synchronization was right. (Finally got it working!)
++ Added a test for checking self link of cluster scoped resources.
 + Wrote the schema for validation of Pod for the proposal.
 + Did more community bonding:
     - [Talked](https://kubernetes.slack.com/archives/C0EG7JC6T/p1495715788294534) to David about the project and CRDs.

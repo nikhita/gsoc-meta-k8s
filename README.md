@@ -50,5 +50,6 @@ A RSS feed for blog posts only related to GSoC is available [here](https://nikhi
 + [#45793](https://github.com/kubernetes/kubernetes/pull/45793) - Add plural name for CustomResources example
 + [#46059](https://github.com/kubernetes/kubernetes/pull/46059) - Integration test for kube-apiextensions-server: integers
 + [#46200](https://github.com/kubernetes/kubernetes/pull/46200) - Add integration test for name conflicts
-+ [#46585](https://github.com/kubernetes/kubernetes/pull/46585) - [WIP] Add integration test for GC
++ [#46585](https://github.com/kubernetes/kubernetes/pull/46585) - [WIP] Add integration test for GC (blocked on [#46000](https://github.com/kubernetes/kubernetes/pull/46000))
++ [#46624](https://github.com/kubernetes/kubernetes/pull/46624) - Add test for advanced CRUD for apiextensions
 

@@ -33,6 +33,9 @@ Issues created in this repository correspond to the tasks I'm working on. Please
 
 ### Coding Period - June
 
++ [Week 4](weekly/week4.md)
++ [Week 5](weekly/week5.md)
+
 
 ## Blog posts
 
@@ -44,6 +47,8 @@ A RSS feed for blog posts only related to GSoC is available [here](https://nikhi
 
 ## Related Pull Requests
 
+There are a few PRs to other Kubernetes projects as well like `kubernetes/community`, `kubernetes/examples`, `kubernetes/kubernetes.github.io`, etc. However, the following lists the PRs pertaining to my GSoC project only.
+
 + [#44026](https://github.com/kubernetes/kubernetes/pull/44026) - Preserve int data when unmarshalling for TPR
 + [#44612](https://github.com/kubernetes/kubernetes/pull/44612) - Fix kube-apiserver crash when patching TPR data
 + [#45721](https://github.com/kubernetes/kubernetes/pull/45721) - Add integration tests for kube-apiextensions-server
@@ -52,4 +57,6 @@ A RSS feed for blog posts only related to GSoC is available [here](https://nikhi
 + [#46200](https://github.com/kubernetes/kubernetes/pull/46200) - Add integration test for name conflicts
 + [#46585](https://github.com/kubernetes/kubernetes/pull/46585) - [WIP] Add integration test for GC (blocked on [#46000](https://github.com/kubernetes/kubernetes/pull/46000))
 + [#46624](https://github.com/kubernetes/kubernetes/pull/46624) - Add test for advanced CRUD for apiextensions
++ [#47263](https://github.com/kubernetes/kubernetes/pull/47263) - [WIP] Add types for validation of CustomResources
++ [#61](https://github.com/kubernetes/gengo/pull/61) - Fix defaulter codegen for recursive types
 

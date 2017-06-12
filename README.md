@@ -59,4 +59,7 @@ There are a few PRs to other Kubernetes projects as well like `kubernetes/commun
 + [#46624](https://github.com/kubernetes/kubernetes/pull/46624) - Add test for advanced CRUD for apiextensions
 + [#47263](https://github.com/kubernetes/kubernetes/pull/47263) - [WIP] Add types for validation of CustomResources
 + [#61](https://github.com/kubernetes/gengo/pull/61) - Fix defaulter codegen for recursive types
++ [#3](https://github.com/nikhita/kubernetes/pull/3) - Fix for code generation in kube
++ [#1](https://github.com/caesarxuchao/gengo/pull/1) - Add tests for recursive types in defaulter-gen
++ [#708](https://github.com/kubernetes/community/pull/708) - Proposal: Validation for CustomResources
 

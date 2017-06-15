@@ -16,9 +16,10 @@ Issues created in this repository correspond to the tasks I'm working on. Please
 
 ## Links
 
-+ [Proposal](https://docs.google.com/document/d/13vhzIMsBwCSrA6mCKjTDJDY4dyTGdEhf4wNKWw_DCLA/edit?usp=sharing)
++ [GSoC Proposal](https://docs.google.com/document/d/13vhzIMsBwCSrA6mCKjTDJDY4dyTGdEhf4wNKWw_DCLA/edit?usp=sharing)
++ [Project on GSoC website](https://summerofcode.withgoogle.com/organizations/6540924424290304/#5982049109278720)
 + [TPR features issue](https://github.com/kubernetes/features/issues/95)
-+ [Project on GSoC website](https://summerofcode.withgoogle.com/projects/#5982049109278720)
++ [Design Proposal: Validation for CustomResources](https://github.com/kubernetes/community/pull/708)
 + [Waffle board](https://waffle.io/nikhita/gsoc-meta-k8s)
 + [Daily update log](https://docs.google.com/document/d/1iCH03_jdyUsBfXKwgZtut7tXVbsl6lgusDt_lXLNNGo/edit?usp=sharing)
 + [cncf-soc github repo](https://github.com/cncf/soc)

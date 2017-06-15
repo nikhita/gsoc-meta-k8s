@@ -14,6 +14,9 @@ I am learning lots of new things every day during GSoC! These are some of the ra
 * Git tricks I learnt while contributing
     - this can be an useful later on as well!
     - make it as comprehensive as possible
+* Converting types in Go
+* Documentation for the go-openapi library (or simple examples)
+* Subtleties of JSON Schema
 
 ## Meta
 

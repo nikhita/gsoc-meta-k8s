@@ -23,6 +23,7 @@ Issues created in this repository correspond to the tasks I'm working on. Please
 + [Waffle board](https://waffle.io/nikhita/gsoc-meta-k8s)
 + [Daily update log](https://docs.google.com/document/d/1iCH03_jdyUsBfXKwgZtut7tXVbsl6lgusDt_lXLNNGo/edit?usp=sharing)
 + [cncf-soc github repo](https://github.com/cncf/soc)
++ [CNCF Blog post on GSoC](https://www.cncf.io/blog/2017/05/04/cncf-brings-kubernetes-coredns-opentracing-prometheus-google-summer-code-2017/)
 
 ## Weekly Summary
 

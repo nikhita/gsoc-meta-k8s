@@ -47,9 +47,9 @@ A RSS feed for blog posts only related to GSoC is available [here](https://nikhi
 + [GSoC with Kubernetes - Week 2 and 3](https://nikhita.github.io/google-summer-of-code-kubernetes-week2-3-community-bonding)
 
 
-## Related Pull Requests
+## Related Pull Requests/Issues
 
-There are a few PRs to other Kubernetes projects as well like `kubernetes/community`, `kubernetes/examples`, `kubernetes/kubernetes.github.io`, etc. However, the following lists the PRs pertaining to my GSoC project only.
+There are a few PRs to other Kubernetes projects as well like `kubernetes/community`, `kubernetes/examples`, `kubernetes/kubernetes.github.io`, etc. However, the following lists the PRs/Issues pertaining to my GSoC project only.
 
 + [#44026](https://github.com/kubernetes/kubernetes/pull/44026) - Preserve int data when unmarshalling for TPR
 + [#44612](https://github.com/kubernetes/kubernetes/pull/44612) - Fix kube-apiserver crash when patching TPR data
@@ -64,4 +64,7 @@ There are a few PRs to other Kubernetes projects as well like `kubernetes/commun
 + [#3](https://github.com/nikhita/kubernetes/pull/3) - Fix for code generation in kube
 + [#1](https://github.com/caesarxuchao/gengo/pull/1) - Add tests for recursive types in defaulter-gen
 + [#708](https://github.com/kubernetes/community/pull/708) - Proposal: Validation for CustomResources
++ [#47684](https://github.com/kubernetes/kubernetes/pull/47684) - Fix link to apiextensions client-go example
++ [#47748](https://github.com/kubernetes/kubernetes/pull/47748) - Update client-go to point to CR example
++ [#47743](https://github.com/kubernetes/kubernetes/issues/47743) - No examples for CR in client-go
 

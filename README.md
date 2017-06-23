@@ -59,7 +59,7 @@ There are a few PRs to other Kubernetes projects as well like `kubernetes/commun
 + [#46200](https://github.com/kubernetes/kubernetes/pull/46200) - Add integration test for name conflicts
 + [#46585](https://github.com/kubernetes/kubernetes/pull/46585) - [WIP] Add integration test for GC (blocked on [#46000](https://github.com/kubernetes/kubernetes/pull/46000))
 + [#46624](https://github.com/kubernetes/kubernetes/pull/46624) - Add test for advanced CRUD for apiextensions
-+ [#47263](https://github.com/kubernetes/kubernetes/pull/47263) - [WIP] Add types for validation of CustomResources
++ [#47263](https://github.com/kubernetes/kubernetes/pull/47263) - [WIP] apiextensions: validation of CustomResources
 + [#61](https://github.com/kubernetes/gengo/pull/61) - Fix defaulter codegen for recursive types
 + [#3](https://github.com/nikhita/kubernetes/pull/3) - Fix for code generation in kube
 + [#1](https://github.com/caesarxuchao/gengo/pull/1) - Add tests for recursive types in defaulter-gen

@@ -37,11 +37,15 @@ Issues created in this repository correspond to the tasks I'm working on. Please
 
 + [Week 4](weekly/week4.md)
 + [Week 5](weekly/week5.md)
++ [Week 6](weekly/week6.md)
++ [Week 7](weekly/week7.md)
 
 
 ## Blog posts
 
 A RSS feed for blog posts only related to GSoC is available [here](https://nikhita.github.io/feed-gsoc.xml).
+
+Note: I have decided not to write weekly updates as blog posts anymore but to include it as a quick weekly summary only. The blog posts will focus more on technical content.
 
 + [GSoC with Kubernetes - Week 1](https://nikhita.github.io/google-summer-of-code-kubernetes-week-1)
 + [GSoC with Kubernetes - Week 2 and 3](https://nikhita.github.io/google-summer-of-code-kubernetes-week2-3-community-bonding)

@@ -16,7 +16,7 @@ Issues created in this repository correspond to the tasks I'm working on. Please
 
 ## Links
 
-+ [GSoC Proposal](https://docs.google.com/document/d/13vhzIMsBwCSrA6mCKjTDJDY4dyTGdEhf4wNKWw_DCLA/edit?usp=sharing)
++ [GSoC Proposal](notes/gsoc-proposal.pdf)
 + [Project on GSoC website](https://summerofcode.withgoogle.com/organizations/6540924424290304/#5982049109278720)
 + [TPR features issue](https://github.com/kubernetes/features/issues/95)
 + [Design Proposal: Validation for CustomResources](https://github.com/kubernetes/community/pull/708)

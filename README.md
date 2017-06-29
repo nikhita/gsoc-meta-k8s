@@ -71,4 +71,6 @@ There are a few PRs to other Kubernetes projects as well like `kubernetes/commun
 + [#47684](https://github.com/kubernetes/kubernetes/pull/47684) - Fix link to apiextensions client-go example
 + [#47748](https://github.com/kubernetes/kubernetes/pull/47748) - Update client-go to point to CR example
 + [#47743](https://github.com/kubernetes/kubernetes/issues/47743) - No examples for CR in client-go
++ [#48076](https://github.com/kubernetes/kubernetes/pull/48076) - Fix error in local-up-cluster
++ [#48114](https://github.com/kubernetes/kubernetes/pull/48114) - Automated cherry pick of #47748
 

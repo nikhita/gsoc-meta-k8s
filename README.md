@@ -73,4 +73,8 @@ There are a few PRs to other Kubernetes projects as well like `kubernetes/commun
 + [#47743](https://github.com/kubernetes/kubernetes/issues/47743) - No examples for CR in client-go
 + [#48076](https://github.com/kubernetes/kubernetes/pull/48076) - Fix error in local-up-cluster
 + [#48114](https://github.com/kubernetes/kubernetes/pull/48114) - Automated cherry pick of #47748
++ [#48389](https://github.com/kubernetes/kubernetes/pull/48389) - Add cleanup section to client-go
++ [#48630](https://github.com/kubernetes/kubernetes/pull/48630) - update vendored gengo
++ [#49307](https://github.com/kubernetes/kubernetes/pull/49307) - fuzzer: remove unreachable code
++ [#49747](https://github.com/kubernetes/kubernetes/pull/49747) - conversion-gen: support recursive types
 

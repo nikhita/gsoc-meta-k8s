@@ -32,14 +32,28 @@ Issues created in this repository correspond to the tasks I'm working on. Please
 + [Week 1](weekly/week1.md)
 + [Week 2](weekly/week2.md)
 + [Week 3](weekly/week3.md)
++ [Week 4](weekly/week4.md)
 
 ### Coding Period - June
 
-+ [Week 4](weekly/week4.md)
 + [Week 5](weekly/week5.md)
 + [Week 6](weekly/week6.md)
 + [Week 7](weekly/week7.md)
++ [Week 8](weekly/week8.md)
 
+### Coding Period - July
+
++ [Week 9](weekly/week9.md)
++ [Week 10](weekly/week10.md)
++ [Week 11](weekly/week11.md)
++ [Week 12](weekly/week12.md)
+
+### Coding Period - August
+
++ [Week 13](weekly/week13.md)
++ [Week 14](weekly/week14.md)
++ [Week 15](weekly/week15.md)
++ [Week 16](weekly/week16.md)
 
 ## Blog posts
 
@@ -53,7 +67,7 @@ Note: I have decided not to write weekly updates as blog posts anymore but to in
 
 ## Related Pull Requests/Issues
 
-There are a few PRs to other Kubernetes projects as well like `kubernetes/community`, `kubernetes/examples`, `kubernetes/kubernetes.github.io`, etc. However, the following lists the PRs/Issues pertaining to my GSoC project only.
+TODO: Add other PRs/issues
 
 + [#44026](https://github.com/kubernetes/kubernetes/pull/44026) - Preserve int data when unmarshalling for TPR
 + [#44612](https://github.com/kubernetes/kubernetes/pull/44612) - Fix kube-apiserver crash when patching TPR data
@@ -73,4 +87,9 @@ There are a few PRs to other Kubernetes projects as well like `kubernetes/commun
 + [#47743](https://github.com/kubernetes/kubernetes/issues/47743) - No examples for CR in client-go
 + [#48076](https://github.com/kubernetes/kubernetes/pull/48076) - Fix error in local-up-cluster
 + [#48114](https://github.com/kubernetes/kubernetes/pull/48114) - Automated cherry pick of #47748
-
++ [#48389](https://github.com/kubernetes/kubernetes/pull/48389) - Add cleanup section to client-go
++ [#48630](https://github.com/kubernetes/kubernetes/pull/48630) - update vendored gengo
++ [#49307](https://github.com/kubernetes/kubernetes/pull/49307) - fuzzer: remove unreachable code
++ [#49747](https://github.com/kubernetes/kubernetes/pull/49747) - conversion-gen: support recursive types
++ [#50098](https://github.com/kubernetes/kubernetes/pull/50098) - apiextensions: fix data race in storage
++ [#50250](https://github.com/kubernetes/kubernetes/pull/50250) -  Automated cherry pick of #50098

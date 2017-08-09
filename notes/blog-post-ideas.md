@@ -17,6 +17,9 @@ I am learning lots of new things every day during GSoC! These are some of the ra
 * Converting types in Go
 * Documentation for the go-openapi library (or simple examples)
 * Subtleties of JSON Schema
+* OpenAPI spec's inconsistencies :/
+* Adding new API types in kubernetes
+* Adding sub-resources for new resources
 
 ## Meta
 
@@ -41,3 +44,4 @@ These can be a little technical too! :P
 * The Amazing Kubernetes Community
     - awesome experiences I have had until now
     - the wonderful friends I have made here :)
+    - the awesome slack :)

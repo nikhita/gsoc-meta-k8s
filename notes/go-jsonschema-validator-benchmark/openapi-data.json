@@ -1,0 +1,29 @@
+[
+    {
+        "description": "maximum validation",
+        "schema": {
+            "$schema": "http: //json-schema.org/draft-04/schema#",
+            "type": "object",
+            "description": "This is an example schema",
+            "required": [
+                "foo"
+            ],
+            "properties": {
+                "foo": {
+                    "description": "Foo is a string",
+                    "type": "string",
+                    "default": "abc"
+                }
+            }
+        },
+        "tests": [
+            {
+                "description": "below the maximum is valid",
+                "bar": {
+                    "foo": "hello"
+                },
+                "valid": true
+            }
+        ]
+    }
+]

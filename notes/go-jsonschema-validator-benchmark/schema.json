@@ -1,0 +1,24 @@
+{
+  "name" : "test",
+  "type" : "object",
+  "additionalProperties" : false,
+  "required" : ["fullName", "age", "zip", "married", "dozen", "dozenOrBakersDozen", "favoriteEvenNumber", "topThreeFavoriteColors", "favoriteSingleDigitWholeNumbers", "favoriteFiveLetterWord", "emailAddresses", "ipAddresses"],
+  "properties" :
+  {
+    "fullName"                        : { "type" : "string" },
+    "age"                             : { "type" : "integer", "minimum" : 0 },
+    "optionalItem"                    : { "type" : "string" },
+    "state"                           : { "type" : "string" },
+    "city"                            : { "type" : "string" },
+    "zip"                             : { "type" : "integer", "minimum" : 0, "maximum" : 99999 },
+    "married"                         : { "type" : "boolean" },
+    "dozen"                           : { "type" : "integer", "minimum" : 12, "maximum" : 12 },
+    "dozenOrBakersDozen"              : { "type" : "integer", "minimum" : 12, "maximum" : 13 },
+    "favoriteEvenNumber"              : { "type" : "integer", "multipleOf" : 2 },
+    "topThreeFavoriteColors"          : { "type" : "array", "minItems" : 3, "maxItems" : 3, "uniqueItems" : true, "items" : { "type" : "string" }},
+    "favoriteSingleDigitWholeNumbers" : { "type" : "array", "minItems" : 1, "maxItems" : 10, "uniqueItems" : true, "items" : { "type" : "integer", "minimum" : 0, "maximum" : 9 }},
+    "favoriteFiveLetterWord"          : { "type" : "string", "minLength" : 5, "maxLength" : 5 },
+    "emailAddresses"                  : { "type" : "array", "minItems" : 1, "uniqueItems" : true, "items" : { "type" : "string", "format" : "email" }},
+    "ipAddresses"                     : { "type" : "array", "uniqueItems" : true, "items" : { "type" : "string", "format" : "ipv4" }}
+  }
+}

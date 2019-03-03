@@ -16,9 +16,9 @@ Over time, the project goal has somewhat changed but this is the original abstra
 
 + Name: Nikhita Raghunath
 + Github: [nikhita](https://github.com/nikhita)
-+ Email: nikitaraghunath@gmail.com
++ Email: hello@nikhita.dev
 + Slack nick: nikhita
-+ Blog: https://nikhita.github.io/
++ Blog: https://www.nikhita.dev
 + Mentor: [Dr. Stefan Schimanski](https://github.com/sttts)
 
 ## Links
